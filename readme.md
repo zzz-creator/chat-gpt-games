@@ -84,7 +84,7 @@ Unleash the power of your imagination in Super Smash GPT, where each battle is a
 
 ### [The Password Game](games/the-password-game.md) -- [Sovenok-Hacker](https://github.com/Sovenok-Hacker)
 
-Try your best to make a password in this challenging exploration of common day security practices.
+Try your best to make a password in this challenging exploration of common day security practices. You will face the wierdest password requirements to fufil your destiny to create a password that suits your boss's requirements
 
 ## Shout outs!
 
